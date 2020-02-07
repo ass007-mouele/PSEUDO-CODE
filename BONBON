@@ -2,8 +2,8 @@
 Début bonbon (décimal argent, décimal prix)
    entier nombre
    nombre ← 0
-   si argent et prix > 0:
-      tant que (argent >=Prix et prix > O
+   si argent ET prix > 0:
+      tant que (argent >=Prix ET prix > O
          argent ← (argent- prix)
          nombre ← nombre+1
       retourner nombre

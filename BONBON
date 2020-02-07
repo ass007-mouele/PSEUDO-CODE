@@ -1,8 +1,10 @@
-def bonbon (argent=float,prix=float):
-    nombre=int
-    nombre=0
-    if argent and prix > 0:
-       while(argent >=prix and prix > 0):
-          argent=argent-prix
-          nombre+=1
-       return nombre
+
+Début bonbon (décimal argent, décimal prix)
+   entier nombre
+   nombre ← 0
+   si argent et prix > 0:
+      tant que (argent >=Prix et prix > O
+         argent ← (argent- prix)
+         nombre ← nombre+1
+      retourner nombre
+Fin bonbon

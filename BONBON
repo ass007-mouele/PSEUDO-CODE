@@ -6,5 +6,7 @@ Début bonbon (décimal argent, décimal prix)
       tant que (argent >=Prix ET prix > O
          argent ← (argent- prix)
          nombre ← nombre+1
+      fin tant que   
       retourner nombre
+   fin si    
 Fin bonbon

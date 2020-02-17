@@ -1,0 +1,7 @@
+
+Début
+   Demander NOMBRE
+   Pour i de 0 à NOMBRE (par pas de 1),faire
+      Afficher "Bienvenue à la wild"
+   Fin Pour
+Fin
